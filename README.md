@@ -5,10 +5,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript&logoColor=3178C6)
 </div>
 
-# 🤔 저는요...
 
-- 🏫 컴퓨터정보공학 전공(3학년 휴학 중)이에요.
-- 🌱 Front-End Developer가 꿈이에요.
 
 <div align=center>
 
