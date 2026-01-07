@@ -11,7 +11,7 @@
   - React, React Router v7, Tanstack Query
 
 ## 🔭 Careers
-- Solution Support Engineer in Kings Information & Network Co., Ltd. (2023-2025)
+- Solution Support Engineer at Kings Information & Network Co., Ltd. (2023-2025)
 - B.Sc. in Computer Engineering at Kwangwoon University (2020–Present)
 
 <!--
