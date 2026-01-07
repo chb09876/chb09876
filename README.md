@@ -1,20 +1,29 @@
-<div align=center>
+<h1 align="center">Hi 👋, I'm Habin</h1>
 
-![Typescript](https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB)
-![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript&logoColor=3178C6)
-</div>
+## 🌱 Interests
+- **Security and Privacy**
+  - Zero-Knowledge Proof, Blockchain
+- **Compute Hardware**
+  - RISC-V, Hardware Accelator
+- **Machine Learning**
+  - Federated Learning, Verifiable AI
+- **Web Development**
+  - React, React Router v7, Tanstack Query
 
+## 🔭 Careers
+- Solution Support Engineer in Kings Information & Network Co., Ltd. (2023-2025)
+- B.Sc. in Computer Engineering at Kwangwoon University (2020–Present)
 
+<!--
+## ⚡ Community Activities
+- TODO
+-->
 
-<div align=center>
+## 📫 Contacts
+- LinkedIn: [Link](https://www.linkedin.com/in/hachobin)
+- Email: [hachocco@gmail.com](mailto:hachocco@gmail.com)
 
-[![chb09876's github stats](https://github-readme-stats.vercel.app/api?username=chb09876&show_icons=true)](https://github.com/chb09876)
-[![chb09876's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chb09876&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chb09876)
-</div>
+![profile_view_counter](https://komarev.com/ghpvc/?username=chb09876)
+<!--
 
-<div align=center>
-
-[![hacho's 42 stats](https://badge42.vercel.app/api/v2/cl7g5kylf00060gjlm4njc8cr/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chb09876)](https://solved.ac/chb09876)
-</div>
+-->
